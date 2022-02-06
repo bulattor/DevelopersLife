@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DevelopersLife</string>
+    <string name="title_latest">Последние</string>
+    <string name="title_hot">Горячие</string>
+    <string name="title_top">Лучшие</string>
+    <string name="title_random">Случайные</string>
+    <string name="title_error">Ошибка соединения с сервером</string>
+    <string name="button_back">Назад</string>
+    <string name="button_next">Далее</string>
+    <string name="button_update">Обновить</string>
+    <string name="title_nomore">В этой категории больше нет постов</string>
+</resources>
